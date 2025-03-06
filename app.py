@@ -458,6 +458,11 @@ QUESTION_TEMPLATE = '''
   </div>
 </div>
 
+<footer class="text-center mt-5 mb-3">
+  <p>Project by Abhishek V Sagarnal</p>
+  <p><a href="https://www.linkedin.com/in/abhishekvsagarnal/" target="_blank">Connect with me on LinkedIn</a></p>
+</footer>
+
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
@@ -827,6 +832,11 @@ RESULT_TEMPLATE = '''
     ↻ Restart Assessment
   </a>
 </div>
+
+<footer class="text-center mt-5 mb-3">
+  <p>Project by Abhishek V Sagarnal</p>
+  <p><a href="https://www.linkedin.com/in/abhishekvsagarnal/" target="_blank">Connect with me on LinkedIn</a></p>
+</footer>
 
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
